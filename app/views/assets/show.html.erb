@@ -1,0 +1,35 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @asset.name %>
+</p>
+
+<p>
+  <b>Category:</b>
+  <%= @asset.category.name unless @asset.category.nil? %>
+</p>
+
+<p>
+  <b>Owner:</b>
+  <%= @asset.owner.name unless @asset.owner.nil? %>
+</p>
+
+<p>
+  <b>User:</b>
+  <%= @asset.user.name unless @asset.user.nil? %>
+</p>
+
+<p>
+  <b>Inv. №:</b>
+  <%= sprintf "%05u", @asset.id %>
+</p>
+
+<p>
+  <b>Date:</b>
+  <%= @asset.date %>
+</p>
+
+
+<%= link_to 'Edit', edit_asset_path(@asset) %> |
+<%= link_to 'Back', assets_path %>

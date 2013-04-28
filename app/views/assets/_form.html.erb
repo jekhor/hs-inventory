@@ -1,0 +1,37 @@
+<%= form_for(@asset) do |f| %>
+  <% if @asset.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@asset.errors.count, "error") %> prohibited this asset from being saved:</h2>
+
+      <ul>
+      <% @asset.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :category_id %><br />
+    <%= f.select :category_id, @categories.map {|c| [c.name, c.id]}, :include_blank => true %>
+  </div>
+  <div class="field">
+    <%= f.label :owner_id %><br />
+    <%= f.select :owner_id, @owners.map {|o| ["#{o.first_name} #{o.last_name}", o.id]}, :include_blank => true %>
+  </div>
+  <div class="field">
+    <%= f.label :user_id %><br />
+    <%= f.select :user_id, @users.map {|u| ["#{u.first_name} #{u.last_name}", u.id]}, :include_blank => true %>
+  </div>
+  <div class="field">
+    <%= f.label :date %><br />
+    <%= f.date_select :date %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
