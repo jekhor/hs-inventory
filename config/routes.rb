@@ -1,4 +1,13 @@
 HsInventory::Application.routes.draw do
+  resources :assets
+
+
+  resources :categories
+
+
+  resources :members
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

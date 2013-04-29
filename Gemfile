@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
+gem 'rails-i18n'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -36,3 +37,16 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+
+gem 'devise'
+gem 'devise-i18n'
+gem 'therubyracer'
+gem 'jquery_datepicker', :git => 'git://github.com/cure/jquery_datepicker.git'
+gem 'will_paginate'
+gem 'unicode'
+gem 'rqrcode', :git => 'git://github.com/jekhor/rqrcode.git'
+gem 'rqrcode-rails3', :git => 'git://github.com/jekhor/rqrcode-rails3.git'
+gem 'mini_magick'
+gem 'chunky_png'
+

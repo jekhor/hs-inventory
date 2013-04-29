@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 class AssetsController < ApplicationController
   # GET /assets
   # GET /assets.json
@@ -18,6 +20,7 @@ class AssetsController < ApplicationController
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @asset }
+      format.png { render qrcode: asset_url(@asset) }
     end
   end
 

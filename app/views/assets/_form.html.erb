@@ -16,6 +16,14 @@
     <%= f.text_field :name %>
   </div>
   <div class="field">
+    <%= f.label :model %><br />
+    <%= f.text_field :model %>
+  </div>
+  <div class="field">
+    <%= f.label :serial %><br />
+    <%= f.text_field :serial %>
+  </div>
+  <div class="field">
     <%= f.label :category_id %><br />
     <%= f.select :category_id, @categories.map {|c| [c.name, c.id]}, :include_blank => true %>
   </div>

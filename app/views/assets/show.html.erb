@@ -6,6 +6,16 @@
 </p>
 
 <p>
+  <b>Model:</b>
+  <%= @asset.model %>
+</p>
+
+<p>
+  <b>Serial:</b>
+  <%= @asset.serial %>
+</p>
+
+<p>
   <b>Category:</b>
   <%= @asset.category.name unless @asset.category.nil? %>
 </p>
@@ -22,7 +32,7 @@
 
 <p>
   <b>Inv. №:</b>
-  <%= sprintf "%05u", @asset.id %>
+  <%= @asset.inv_no %>
 </p>
 
 <p>

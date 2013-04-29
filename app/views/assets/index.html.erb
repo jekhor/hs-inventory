@@ -4,6 +4,8 @@
   <tr>
     <th>Inv. №</th>
     <th>Name</th>
+    <th>Model</th>
+    <th>Serial №</th>
     <th>Category</th>
     <th>Owner</th>
     <th>User</th>
@@ -17,6 +19,8 @@
   <tr>
     <td><%= asset.inv_no %></td>
     <td><%= asset.name %></td>
+    <td><%= asset.model %></td>
+    <td><%= asset.serial %></td>
     <td><%= asset.category.name unless asset.category.nil? %></td>
     <td><%= asset.owner.name unless asset.owner.nil? %></td>
     <td><%= asset.user.name unless asset.user.nil? %></td>
