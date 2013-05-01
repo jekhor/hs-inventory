@@ -16,6 +16,16 @@
 </p>
 
 <p>
+  <b>Description:</b>
+  <%= simple_format @asset.description %>
+</p>
+
+<p>
+  <b>Contents:</b>
+  <%= simple_format @asset.contents %>
+</p>
+
+<p>
   <b>Category:</b>
   <%= @asset.category.name unless @asset.category.nil? %>
 </p>

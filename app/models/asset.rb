@@ -1,5 +1,5 @@
 class Asset < ActiveRecord::Base
-  attr_accessible :category_id, :date, :name, :owner_id, :user_id, :model, :serial
+  attr_accessible :category_id, :date, :name, :owner_id, :user_id, :model, :serial, :description, :contents
 
   belongs_to :category
   belongs_to :owner, :class_name => 'Member', :foreign_key => 'owner_id'
