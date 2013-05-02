@@ -7,8 +7,8 @@ class Asset < ActiveRecord::Base
   belongs_to :owner, :class_name => 'Member', :foreign_key => 'owner_id'
   belongs_to :user, :class_name => 'Member', :foreign_key => 'user_id'
 
-  validates :name, :length => { :maximum => 60 }
-  validates :model, :length => { :maximum => 60 }
+  validates :name, :length => { :maximum => 30 }
+  validates :model, :length => { :maximum => 30 }
 
   has_barcode :barcode,
     :outputter => :svg,
