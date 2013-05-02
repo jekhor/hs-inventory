@@ -1,4 +1,5 @@
 HsInventory::Application.routes.draw do
+  get 'assets/labels' => 'assets#labels'
   resources :assets
 
 

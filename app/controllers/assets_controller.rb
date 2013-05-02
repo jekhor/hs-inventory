@@ -12,6 +12,14 @@ class AssetsController < ApplicationController
     end
   end
 
+  def labels
+    @assets = Asset.all
+
+    respond_to do |format|
+      format.html { render :layout => false }
+    end
+  end
+
   # GET /assets/1
   # GET /assets/1.json
   def show
