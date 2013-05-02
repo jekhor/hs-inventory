@@ -50,6 +50,9 @@
   <%= @asset.date %>
 </p>
 
+<p>
+<%= image_tag asset_url(@asset) + ".svg" %>
+</p>
 
 <%= link_to 'Edit', edit_asset_path(@asset) %> |
 <%= link_to 'Back', assets_path %>

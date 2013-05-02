@@ -49,4 +49,4 @@ gem 'rqrcode', :git => 'git://github.com/jekhor/rqrcode.git'
 gem 'rqrcode-rails3', :git => 'git://github.com/jekhor/rqrcode-rails3.git'
 gem 'mini_magick'
 gem 'chunky_png'
-
+gem 'has_barcode'

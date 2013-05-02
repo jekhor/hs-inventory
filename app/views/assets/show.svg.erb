@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="177.29036"
+   height="70.991142"
+   id="svg5171">
+  <defs
+     id="defs5173" />
+  <metadata
+     id="metadata5176">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0.06250043,-981.37104)"
+     id="layer1">
+    <g
+       transform="translate(0,620.01624)"
+       id="g9596">
+      <text
+         x="64.192345"
+         y="373.358"
+         transform="scale(0.99356905,1.0064726)"
+         id="name"
+         xml:space="preserve"
+         style="font-size:6.81304502px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+           x="64.192345"
+           y="373.358"
+           id="tspan4717">Н:<%= @asset.name %></tspan></text>
+      <text
+         x="64.192345"
+         y="384.05673"
+         transform="scale(0.99356905,1.0064726)"
+         id="model"
+         xml:space="preserve"
+         style="font-size:6.81304502px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+           x="64.192345"
+           y="384.05673"
+           id="tspan4721">М: <%= @asset.model %></tspan></text>
+      <text
+         x="64.192345"
+         y="394.75546"
+         transform="scale(0.99356905,1.0064726)"
+         id="category"
+         xml:space="preserve"
+         style="font-size:6.81304502px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+           x="64.192345"
+           y="394.75546"
+           id="tspan4725">К: <%= @asset.category.name unless @asset.category.nil? %></tspan></text>
+      <text
+         x="64.192345"
+         y="405.45419"
+         transform="scale(0.99356905,1.0064726)"
+         id="owner"
+         xml:space="preserve"
+         style="font-size:6.81304502px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+           x="64.192345"
+           y="405.45419"
+           id="tspan4729">В: <%= @asset.owner.name unless @asset.owner.nil? %></tspan></text>
+      <rect
+         width="177.16536"
+         height="70.866142"
+         x="-4.3176269e-07"
+         y="361.4173"
+         id="rect4731"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.09590529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         x="128.57913"
+         y="421.34549"
+         transform="scale(0.99356903,1.0064726)"
+         id="inv_no"
+         xml:space="preserve"
+         style="font-size:10.98903465px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+           x="128.57913"
+           y="421.34549"
+           id="tspan4860"><%= @asset.inv_no %></tspan></text>
+      <g
+         transform="matrix(0.34475421,0,0,0.34475421,0,364.96061)"
+         id="canvas-qrcode">
+       <%= raw @asset.qrcode_data(asset_url(@asset)).gsub(/<\?xml[^>]+\?>/, '') %>
+      </g>
+      <g
+         transform="matrix(0.26163079,0,0,0.26163079,62.875111,410.00408)"
+         id="canvas-barcode">
+       <%= raw @asset.barcode_data(:height => 50, :xdim => 2).gsub(/<\?xml[^>]+\?>/, '') %>
+      </g>
+    </g>
+  </g>
+</svg>

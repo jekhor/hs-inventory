@@ -21,6 +21,7 @@ class AssetsController < ApplicationController
       format.html # show.html.erb
       format.json { render json: @asset }
       format.png { render qrcode: asset_url(@asset) }
+      format.svg {}
     end
   end
 

@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="177.29036"
+   height="70.991142"
+   id="svg5171"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="label-big-template-svg.svg">
+  <defs
+     id="defs5173" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="161.19471"
+     inkscape:cy="49.732321"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1678"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5371"
+       units="mm"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0.035278022mm"
+       originy="-174.98236mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5176">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Пласт 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.06250043,-981.37104)">
+    <g
+       id="g9596"
+       transform="translate(0,620.01624)">
+      <text
+         inkscape:label="#name"
+         transform="scale(0.99356905,1.0064726)"
+         xml:space="preserve"
+         style="font-size:6.81304502px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="64.192345"
+         y="373.358"
+         id="name"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4717"
+           x="64.192345"
+           y="373.358">Осциллограф цифровой</tspan></text>
+      <text
+         transform="scale(0.99356905,1.0064726)"
+         xml:space="preserve"
+         style="font-size:6.81304502px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="64.192345"
+         y="384.05673"
+         id="model"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4721"
+           x="64.192345"
+           y="384.05673">Rigol DS1152</tspan></text>
+      <text
+         transform="scale(0.99356905,1.0064726)"
+         xml:space="preserve"
+         style="font-size:6.81304502px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="64.192345"
+         y="394.75546"
+         id="category"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4725"
+           x="64.192345"
+           y="394.75546">Категория: Оборудование</tspan></text>
+      <text
+         transform="scale(0.99356905,1.0064726)"
+         xml:space="preserve"
+         style="font-size:6.81304502px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="64.192345"
+         y="405.45419"
+         id="owner"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4729"
+           x="64.192345"
+           y="405.45419">Вл-ц: Евгений Хоружий</tspan></text>
+      <rect
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.09590529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4731"
+         width="177.16536"
+         height="70.866142"
+         x="-4.3176269e-07"
+         y="361.4173" />
+      <text
+         transform="scale(0.99356903,1.0064726)"
+         sodipodi:linespacing="125%"
+         id="inv_no"
+         y="421.34549"
+         x="128.57913"
+         style="font-size:10.98903465px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan4860"
+           y="421.34549"
+           x="128.57913"
+           sodipodi:role="line">01-0004</tspan></text>
+      <g
+         transform="matrix(0.34475421,0,0,0.34475421,0,364.96061)"
+         id="canvas">
+        <rect
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="185"
+           height="185"
+           id="rect6135" />
+        <g
+           style="fill:#000000"
+           id="barcode-2">
+          <rect
+             x="10"
+             y="10"
+             width="35"
+             height="5"
+             id="rect6138" />
+          <rect
+             x="60"
+             y="10"
+             width="10"
+             height="5"
+             id="rect6140" />
+          <rect
+             x="75"
+             y="10"
+             width="5"
+             height="5"
+             id="rect6142" />
+          <rect
+             x="85"
+             y="10"
+             width="5"
+             height="5"
+             id="rect6144" />
+          <rect
+             x="100"
+             y="10"
+             width="25"
+             height="5"
+             id="rect6146" />
+          <rect
+             x="130"
+             y="10"
+             width="5"
+             height="5"
+             id="rect6148" />
+          <rect
+             x="140"
+             y="10"
+             width="35"
+             height="5"
+             id="rect6150" />
+          <rect
+             x="10"
+             y="15"
+             width="5"
+             height="5"
+             id="rect6152" />
+          <rect
+             x="40"
+             y="15"
+             width="5"
+             height="5"
+             id="rect6154" />
+          <rect
+             x="55"
+             y="15"
+             width="5"
+             height="5"
+             id="rect6156" />
+          <rect
+             x="90"
+             y="15"
+             width="15"
+             height="5"
+             id="rect6158" />
+          <rect
+             x="115"
+             y="15"
+             width="5"
+             height="5"
+             id="rect6160" />
+          <rect
+             x="140"
+             y="15"
+             width="5"
+             height="5"
+             id="rect6162" />
+          <rect
+             x="170"
+             y="15"
+             width="5"
+             height="5"
+             id="rect6164" />
+          <rect
+             x="10"
+             y="20"
+             width="5"
+             height="5"
+             id="rect6166" />
+          <rect
+             x="20"
+             y="20"
+             width="15"
+             height="5"
+             id="rect6168" />
+          <rect
+             x="40"
+             y="20"
+             width="5"
+             height="5"
+             id="rect6170" />
+          <rect
+             x="50"
+             y="20"
+             width="10"
+             height="5"
+             id="rect6172" />
+          <rect
+             x="65"
+             y="20"
+             width="25"
+             height="5"
+             id="rect6174" />
+          <rect
+             x="95"
+             y="20"
+             width="5"
+             height="5"
+             id="rect6176" />
+          <rect
+             x="105"
+             y="20"
+             width="5"
+             height="5"
+             id="rect6178" />
+          <rect
+             x="115"
+             y="20"
+             width="5"
+             height="5"
+             id="rect6180" />
+          <rect
+             x="125"
+             y="20"
+             width="5"
+             height="5"
+             id="rect6182" />
+          <rect
+             x="140"
+             y="20"
+             width="5"
+             height="5"
+             id="rect6184" />
+          <rect
+             x="150"
+             y="20"
+             width="15"
+             height="5"
+             id="rect6186" />
+          <rect
+             x="170"
+             y="20"
+             width="5"
+             height="5"
+             id="rect6188" />
+          <rect
+             x="10"
+             y="25"
+             width="5"
+             height="5"
+             id="rect6190" />
+          <rect
+             x="20"
+             y="25"
+             width="15"
+             height="5"
+             id="rect6192" />
+          <rect
+             x="40"
+             y="25"
+             width="5"
+             height="5"
+             id="rect6194" />
+          <rect
+             x="50"
+             y="25"
+             width="10"
+             height="5"
+             id="rect6196" />
+          <rect
+             x="70"
+             y="25"
+             width="5"
+             height="5"
+             id="rect6198" />
+          <rect
+             x="90"
+             y="25"
+             width="15"
+             height="5"
+             id="rect6200" />
+          <rect
+             x="115"
+             y="25"
+             width="5"
+             height="5"
+             id="rect6202" />
+          <rect
+             x="125"
+             y="25"
+             width="5"
+             height="5"
+             id="rect6204" />
+          <rect
+             x="140"
+             y="25"
+             width="5"
+             height="5"
+             id="rect6206" />
+          <rect
+             x="150"
+             y="25"
+             width="15"
+             height="5"
+             id="rect6208" />
+          <rect
+             x="170"
+             y="25"
+             width="5"
+             height="5"
+             id="rect6210" />
+          <rect
+             x="10"
+             y="30"
+             width="5"
+             height="5"
+             id="rect6212" />
+          <rect
+             x="20"
+             y="30"
+             width="15"
+             height="5"
+             id="rect6214" />
+          <rect
+             x="40"
+             y="30"
+             width="5"
+             height="5"
+             id="rect6216" />
+          <rect
+             x="55"
+             y="30"
+             width="30"
+             height="5"
+             id="rect6218" />
+          <rect
+             x="90"
+             y="30"
+             width="5"
+             height="5"
+             id="rect6220" />
+          <rect
+             x="100"
+             y="30"
+             width="5"
+             height="5"
+             id="rect6222" />
+          <rect
+             x="110"
+             y="30"
+             width="25"
+             height="5"
+             id="rect6224" />
+          <rect
+             x="140"
+             y="30"
+             width="5"
+             height="5"
+             id="rect6226" />
+          <rect
+             x="150"
+             y="30"
+             width="15"
+             height="5"
+             id="rect6228" />
+          <rect
+             x="170"
+             y="30"
+             width="5"
+             height="5"
+             id="rect6230" />
+          <rect
+             x="10"
+             y="35"
+             width="5"
+             height="5"
+             id="rect6232" />
+          <rect
+             x="40"
+             y="35"
+             width="5"
+             height="5"
+             id="rect6234" />
+          <rect
+             x="55"
+             y="35"
+             width="10"
+             height="5"
+             id="rect6236" />
+          <rect
+             x="70"
+             y="35"
+             width="5"
+             height="5"
+             id="rect6238" />
+          <rect
+             x="80"
+             y="35"
+             width="5"
+             height="5"
+             id="rect6240" />
+          <rect
+             x="90"
+             y="35"
+             width="10"
+             height="5"
+             id="rect6242" />
+          <rect
+             x="105"
+             y="35"
+             width="5"
+             height="5"
+             id="rect6244" />
+          <rect
+             x="115"
+             y="35"
+             width="15"
+             height="5"
+             id="rect6246" />
+          <rect
+             x="140"
+             y="35"
+             width="5"
+             height="5"
+             id="rect6248" />
+          <rect
+             x="170"
+             y="35"
+             width="5"
+             height="5"
+             id="rect6250" />
+          <rect
+             x="10"
+             y="40"
+             width="35"
+             height="5"
+             id="rect6252" />
+          <rect
+             x="50"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6254" />
+          <rect
+             x="60"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6256" />
+          <rect
+             x="70"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6258" />
+          <rect
+             x="80"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6260" />
+          <rect
+             x="90"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6262" />
+          <rect
+             x="100"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6264" />
+          <rect
+             x="110"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6266" />
+          <rect
+             x="120"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6268" />
+          <rect
+             x="130"
+             y="40"
+             width="5"
+             height="5"
+             id="rect6270" />
+          <rect
+             x="140"
+             y="40"
+             width="35"
+             height="5"
+             id="rect6272" />
+          <rect
+             x="55"
+             y="45"
+             width="10"
+             height="5"
+             id="rect6274" />
+          <rect
+             x="75"
+             y="45"
+             width="15"
+             height="5"
+             id="rect6276" />
+          <rect
+             x="95"
+             y="45"
+             width="20"
+             height="5"
+             id="rect6278" />
+          <rect
+             x="120"
+             y="45"
+             width="5"
+             height="5"
+             id="rect6280" />
+          <rect
+             x="130"
+             y="45"
+             width="5"
+             height="5"
+             id="rect6282" />
+          <rect
+             x="25"
+             y="50"
+             width="10"
+             height="5"
+             id="rect6284" />
+          <rect
+             x="40"
+             y="50"
+             width="10"
+             height="5"
+             id="rect6286" />
+          <rect
+             x="55"
+             y="50"
+             width="5"
+             height="5"
+             id="rect6288" />
+          <rect
+             x="70"
+             y="50"
+             width="5"
+             height="5"
+             id="rect6290" />
+          <rect
+             x="90"
+             y="50"
+             width="5"
+             height="5"
+             id="rect6292" />
+          <rect
+             x="100"
+             y="50"
+             width="10"
+             height="5"
+             id="rect6294" />
+          <rect
+             x="155"
+             y="50"
+             width="10"
+             height="5"
+             id="rect6296" />
+          <rect
+             x="25"
+             y="55"
+             width="5"
+             height="5"
+             id="rect6298" />
+          <rect
+             x="45"
+             y="55"
+             width="5"
+             height="5"
+             id="rect6300" />
+          <rect
+             x="80"
+             y="55"
+             width="5"
+             height="5"
+             id="rect6302" />
+          <rect
+             x="105"
+             y="55"
+             width="15"
+             height="5"
+             id="rect6304" />
+          <rect
+             x="125"
+             y="55"
+             width="5"
+             height="5"
+             id="rect6306" />
+          <rect
+             x="135"
+             y="55"
+             width="5"
+             height="5"
+             id="rect6308" />
+          <rect
+             x="145"
+             y="55"
+             width="10"
+             height="5"
+             id="rect6310" />
+          <rect
+             x="160"
+             y="55"
+             width="5"
+             height="5"
+             id="rect6312" />
+          <rect
+             x="15"
+             y="60"
+             width="5"
+             height="5"
+             id="rect6314" />
+          <rect
+             x="30"
+             y="60"
+             width="5"
+             height="5"
+             id="rect6316" />
+          <rect
+             x="40"
+             y="60"
+             width="10"
+             height="5"
+             id="rect6318" />
+          <rect
+             x="70"
+             y="60"
+             width="5"
+             height="5"
+             id="rect6320" />
+          <rect
+             x="80"
+             y="60"
+             width="20"
+             height="5"
+             id="rect6322" />
+          <rect
+             x="110"
+             y="60"
+             width="5"
+             height="5"
+             id="rect6324" />
+          <rect
+             x="120"
+             y="60"
+             width="10"
+             height="5"
+             id="rect6326" />
+          <rect
+             x="135"
+             y="60"
+             width="5"
+             height="5"
+             id="rect6328" />
+          <rect
+             x="145"
+             y="60"
+             width="5"
+             height="5"
+             id="rect6330" />
+          <rect
+             x="165"
+             y="60"
+             width="10"
+             height="5"
+             id="rect6332" />
+          <rect
+             x="25"
+             y="65"
+             width="15"
+             height="5"
+             id="rect6334" />
+          <rect
+             x="50"
+             y="65"
+             width="5"
+             height="5"
+             id="rect6336" />
+          <rect
+             x="65"
+             y="65"
+             width="10"
+             height="5"
+             id="rect6338" />
+          <rect
+             x="85"
+             y="65"
+             width="5"
+             height="5"
+             id="rect6340" />
+          <rect
+             x="95"
+             y="65"
+             width="5"
+             height="5"
+             id="rect6342" />
+          <rect
+             x="110"
+             y="65"
+             width="25"
+             height="5"
+             id="rect6344" />
+          <rect
+             x="145"
+             y="65"
+             width="30"
+             height="5"
+             id="rect6346" />
+          <rect
+             x="20"
+             y="70"
+             width="10"
+             height="5"
+             id="rect6348" />
+          <rect
+             x="35"
+             y="70"
+             width="10"
+             height="5"
+             id="rect6350" />
+          <rect
+             x="55"
+             y="70"
+             width="20"
+             height="5"
+             id="rect6352" />
+          <rect
+             x="90"
+             y="70"
+             width="10"
+             height="5"
+             id="rect6354" />
+          <rect
+             x="115"
+             y="70"
+             width="5"
+             height="5"
+             id="rect6356" />
+          <rect
+             x="125"
+             y="70"
+             width="5"
+             height="5"
+             id="rect6358" />
+          <rect
+             x="140"
+             y="70"
+             width="5"
+             height="5"
+             id="rect6360" />
+          <rect
+             x="10"
+             y="75"
+             width="10"
+             height="5"
+             id="rect6362" />
+          <rect
+             x="30"
+             y="75"
+             width="5"
+             height="5"
+             id="rect6364" />
+          <rect
+             x="45"
+             y="75"
+             width="5"
+             height="5"
+             id="rect6366" />
+          <rect
+             x="60"
+             y="75"
+             width="5"
+             height="5"
+             id="rect6368" />
+          <rect
+             x="70"
+             y="75"
+             width="5"
+             height="5"
+             id="rect6370" />
+          <rect
+             x="90"
+             y="75"
+             width="5"
+             height="5"
+             id="rect6372" />
+          <rect
+             x="110"
+             y="75"
+             width="10"
+             height="5"
+             id="rect6374" />
+          <rect
+             x="125"
+             y="75"
+             width="5"
+             height="5"
+             id="rect6376" />
+          <rect
+             x="135"
+             y="75"
+             width="5"
+             height="5"
+             id="rect6378" />
+          <rect
+             x="155"
+             y="75"
+             width="15"
+             height="5"
+             id="rect6380" />
+          <rect
+             x="15"
+             y="80"
+             width="5"
+             height="5"
+             id="rect6382" />
+          <rect
+             x="25"
+             y="80"
+             width="5"
+             height="5"
+             id="rect6384" />
+          <rect
+             x="40"
+             y="80"
+             width="5"
+             height="5"
+             id="rect6386" />
+          <rect
+             x="80"
+             y="80"
+             width="5"
+             height="5"
+             id="rect6388" />
+          <rect
+             x="100"
+             y="80"
+             width="10"
+             height="5"
+             id="rect6390" />
+          <rect
+             x="135"
+             y="80"
+             width="5"
+             height="5"
+             id="rect6392" />
+          <rect
+             x="160"
+             y="80"
+             width="5"
+             height="5"
+             id="rect6394" />
+          <rect
+             x="10"
+             y="85"
+             width="10"
+             height="5"
+             id="rect6396" />
+          <rect
+             x="25"
+             y="85"
+             width="5"
+             height="5"
+             id="rect6398" />
+          <rect
+             x="35"
+             y="85"
+             width="5"
+             height="5"
+             id="rect6400" />
+          <rect
+             x="45"
+             y="85"
+             width="10"
+             height="5"
+             id="rect6402" />
+          <rect
+             x="70"
+             y="85"
+             width="5"
+             height="5"
+             id="rect6404" />
+          <rect
+             x="80"
+             y="85"
+             width="5"
+             height="5"
+             id="rect6406" />
+          <rect
+             x="90"
+             y="85"
+             width="25"
+             height="5"
+             id="rect6408" />
+          <rect
+             x="125"
+             y="85"
+             width="5"
+             height="5"
+             id="rect6410" />
+          <rect
+             x="140"
+             y="85"
+             width="10"
+             height="5"
+             id="rect6412" />
+          <rect
+             x="155"
+             y="85"
+             width="10"
+             height="5"
+             id="rect6414" />
+          <rect
+             x="15"
+             y="90"
+             width="5"
+             height="5"
+             id="rect6416" />
+          <rect
+             x="25"
+             y="90"
+             width="5"
+             height="5"
+             id="rect6418" />
+          <rect
+             x="40"
+             y="90"
+             width="5"
+             height="5"
+             id="rect6420" />
+          <rect
+             x="60"
+             y="90"
+             width="15"
+             height="5"
+             id="rect6422" />
+          <rect
+             x="100"
+             y="90"
+             width="10"
+             height="5"
+             id="rect6424" />
+          <rect
+             x="120"
+             y="90"
+             width="5"
+             height="5"
+             id="rect6426" />
+          <rect
+             x="130"
+             y="90"
+             width="5"
+             height="5"
+             id="rect6428" />
+          <rect
+             x="140"
+             y="90"
+             width="5"
+             height="5"
+             id="rect6430" />
+          <rect
+             x="150"
+             y="90"
+             width="5"
+             height="5"
+             id="rect6432" />
+          <rect
+             x="165"
+             y="90"
+             width="5"
+             height="5"
+             id="rect6434" />
+          <rect
+             x="30"
+             y="95"
+             width="5"
+             height="5"
+             id="rect6436" />
+          <rect
+             x="70"
+             y="95"
+             width="5"
+             height="5"
+             id="rect6438" />
+          <rect
+             x="105"
+             y="95"
+             width="10"
+             height="5"
+             id="rect6440" />
+          <rect
+             x="120"
+             y="95"
+             width="5"
+             height="5"
+             id="rect6442" />
+          <rect
+             x="130"
+             y="95"
+             width="5"
+             height="5"
+             id="rect6444" />
+          <rect
+             x="140"
+             y="95"
+             width="5"
+             height="5"
+             id="rect6446" />
+          <rect
+             x="150"
+             y="95"
+             width="10"
+             height="5"
+             id="rect6448" />
+          <rect
+             x="165"
+             y="95"
+             width="10"
+             height="5"
+             id="rect6450" />
+          <rect
+             x="10"
+             y="100"
+             width="5"
+             height="5"
+             id="rect6452" />
+          <rect
+             x="25"
+             y="100"
+             width="5"
+             height="5"
+             id="rect6454" />
+          <rect
+             x="40"
+             y="100"
+             width="10"
+             height="5"
+             id="rect6456" />
+          <rect
+             x="60"
+             y="100"
+             width="5"
+             height="5"
+             id="rect6458" />
+          <rect
+             x="70"
+             y="100"
+             width="20"
+             height="5"
+             id="rect6460" />
+          <rect
+             x="95"
+             y="100"
+             width="10"
+             height="5"
+             id="rect6462" />
+          <rect
+             x="115"
+             y="100"
+             width="5"
+             height="5"
+             id="rect6464" />
+          <rect
+             x="125"
+             y="100"
+             width="10"
+             height="5"
+             id="rect6466" />
+          <rect
+             x="140"
+             y="100"
+             width="25"
+             height="5"
+             id="rect6468" />
+          <rect
+             x="170"
+             y="100"
+             width="5"
+             height="5"
+             id="rect6470" />
+          <rect
+             x="10"
+             y="105"
+             width="15"
+             height="5"
+             id="rect6472" />
+          <rect
+             x="35"
+             y="105"
+             width="5"
+             height="5"
+             id="rect6474" />
+          <rect
+             x="50"
+             y="105"
+             width="5"
+             height="5"
+             id="rect6476" />
+          <rect
+             x="60"
+             y="105"
+             width="5"
+             height="5"
+             id="rect6478" />
+          <rect
+             x="75"
+             y="105"
+             width="5"
+             height="5"
+             id="rect6480" />
+          <rect
+             x="85"
+             y="105"
+             width="5"
+             height="5"
+             id="rect6482" />
+          <rect
+             x="95"
+             y="105"
+             width="5"
+             height="5"
+             id="rect6484" />
+          <rect
+             x="110"
+             y="105"
+             width="5"
+             height="5"
+             id="rect6486" />
+          <rect
+             x="125"
+             y="105"
+             width="20"
+             height="5"
+             id="rect6488" />
+          <rect
+             x="155"
+             y="105"
+             width="10"
+             height="5"
+             id="rect6490" />
+          <rect
+             x="170"
+             y="105"
+             width="5"
+             height="5"
+             id="rect6492" />
+          <rect
+             x="15"
+             y="110"
+             width="5"
+             height="5"
+             id="rect6494" />
+          <rect
+             x="35"
+             y="110"
+             width="15"
+             height="5"
+             id="rect6496" />
+          <rect
+             x="75"
+             y="110"
+             width="5"
+             height="5"
+             id="rect6498" />
+          <rect
+             x="90"
+             y="110"
+             width="5"
+             height="5"
+             id="rect6500" />
+          <rect
+             x="100"
+             y="110"
+             width="5"
+             height="5"
+             id="rect6502" />
+          <rect
+             x="120"
+             y="110"
+             width="20"
+             height="5"
+             id="rect6504" />
+          <rect
+             x="145"
+             y="110"
+             width="5"
+             height="5"
+             id="rect6506" />
+          <rect
+             x="155"
+             y="110"
+             width="5"
+             height="5"
+             id="rect6508" />
+          <rect
+             x="10"
+             y="115"
+             width="10"
+             height="5"
+             id="rect6510" />
+          <rect
+             x="35"
+             y="115"
+             width="5"
+             height="5"
+             id="rect6512" />
+          <rect
+             x="45"
+             y="115"
+             width="10"
+             height="5"
+             id="rect6514" />
+          <rect
+             x="90"
+             y="115"
+             width="5"
+             height="5"
+             id="rect6516" />
+          <rect
+             x="105"
+             y="115"
+             width="10"
+             height="5"
+             id="rect6518" />
+          <rect
+             x="140"
+             y="115"
+             width="15"
+             height="5"
+             id="rect6520" />
+          <rect
+             x="160"
+             y="115"
+             width="10"
+             height="5"
+             id="rect6522" />
+          <rect
+             x="10"
+             y="120"
+             width="5"
+             height="5"
+             id="rect6524" />
+          <rect
+             x="25"
+             y="120"
+             width="20"
+             height="5"
+             id="rect6526" />
+          <rect
+             x="50"
+             y="120"
+             width="5"
+             height="5"
+             id="rect6528" />
+          <rect
+             x="60"
+             y="120"
+             width="10"
+             height="5"
+             id="rect6530" />
+          <rect
+             x="95"
+             y="120"
+             width="5"
+             height="5"
+             id="rect6532" />
+          <rect
+             x="105"
+             y="120"
+             width="5"
+             height="5"
+             id="rect6534" />
+          <rect
+             x="130"
+             y="120"
+             width="5"
+             height="5"
+             id="rect6536" />
+          <rect
+             x="140"
+             y="120"
+             width="5"
+             height="5"
+             id="rect6538" />
+          <rect
+             x="170"
+             y="120"
+             width="5"
+             height="5"
+             id="rect6540" />
+          <rect
+             x="10"
+             y="125"
+             width="5"
+             height="5"
+             id="rect6542" />
+          <rect
+             x="20"
+             y="125"
+             width="5"
+             height="5"
+             id="rect6544" />
+          <rect
+             x="55"
+             y="125"
+             width="5"
+             height="5"
+             id="rect6546" />
+          <rect
+             x="90"
+             y="125"
+             width="5"
+             height="5"
+             id="rect6548" />
+          <rect
+             x="105"
+             y="125"
+             width="10"
+             height="5"
+             id="rect6550" />
+          <rect
+             x="150"
+             y="125"
+             width="5"
+             height="5"
+             id="rect6552" />
+          <rect
+             x="160"
+             y="125"
+             width="5"
+             height="5"
+             id="rect6554" />
+          <rect
+             x="170"
+             y="125"
+             width="5"
+             height="5"
+             id="rect6556" />
+          <rect
+             x="10"
+             y="130"
+             width="50"
+             height="5"
+             id="rect6558" />
+          <rect
+             x="65"
+             y="130"
+             width="5"
+             height="5"
+             id="rect6560" />
+          <rect
+             x="75"
+             y="130"
+             width="5"
+             height="5"
+             id="rect6562" />
+          <rect
+             x="85"
+             y="130"
+             width="10"
+             height="5"
+             id="rect6564" />
+          <rect
+             x="105"
+             y="130"
+             width="10"
+             height="5"
+             id="rect6566" />
+          <rect
+             x="130"
+             y="130"
+             width="30"
+             height="5"
+             id="rect6568" />
+          <rect
+             x="165"
+             y="130"
+             width="5"
+             height="5"
+             id="rect6570" />
+          <rect
+             x="50"
+             y="135"
+             width="5"
+             height="5"
+             id="rect6572" />
+          <rect
+             x="65"
+             y="135"
+             width="5"
+             height="5"
+             id="rect6574" />
+          <rect
+             x="75"
+             y="135"
+             width="20"
+             height="5"
+             id="rect6576" />
+          <rect
+             x="110"
+             y="135"
+             width="5"
+             height="5"
+             id="rect6578" />
+          <rect
+             x="130"
+             y="135"
+             width="5"
+             height="5"
+             id="rect6580" />
+          <rect
+             x="150"
+             y="135"
+             width="5"
+             height="5"
+             id="rect6582" />
+          <rect
+             x="160"
+             y="135"
+             width="10"
+             height="5"
+             id="rect6584" />
+          <rect
+             x="10"
+             y="140"
+             width="35"
+             height="5"
+             id="rect6586" />
+          <rect
+             x="50"
+             y="140"
+             width="10"
+             height="5"
+             id="rect6588" />
+          <rect
+             x="100"
+             y="140"
+             width="10"
+             height="5"
+             id="rect6590" />
+          <rect
+             x="115"
+             y="140"
+             width="20"
+             height="5"
+             id="rect6592" />
+          <rect
+             x="140"
+             y="140"
+             width="5"
+             height="5"
+             id="rect6594" />
+          <rect
+             x="150"
+             y="140"
+             width="5"
+             height="5"
+             id="rect6596" />
+          <rect
+             x="160"
+             y="140"
+             width="5"
+             height="5"
+             id="rect6598" />
+          <rect
+             x="10"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6600" />
+          <rect
+             x="40"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6602" />
+          <rect
+             x="55"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6604" />
+          <rect
+             x="75"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6606" />
+          <rect
+             x="85"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6608" />
+          <rect
+             x="95"
+             y="145"
+             width="10"
+             height="5"
+             id="rect6610" />
+          <rect
+             x="110"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6612" />
+          <rect
+             x="125"
+             y="145"
+             width="10"
+             height="5"
+             id="rect6614" />
+          <rect
+             x="150"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6616" />
+          <rect
+             x="160"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6618" />
+          <rect
+             x="170"
+             y="145"
+             width="5"
+             height="5"
+             id="rect6620" />
+          <rect
+             x="10"
+             y="150"
+             width="5"
+             height="5"
+             id="rect6622" />
+          <rect
+             x="20"
+             y="150"
+             width="15"
+             height="5"
+             id="rect6624" />
+          <rect
+             x="40"
+             y="150"
+             width="5"
+             height="5"
+             id="rect6626" />
+          <rect
+             x="50"
+             y="150"
+             width="5"
+             height="5"
+             id="rect6628" />
+          <rect
+             x="70"
+             y="150"
+             width="15"
+             height="5"
+             id="rect6630" />
+          <rect
+             x="95"
+             y="150"
+             width="15"
+             height="5"
+             id="rect6632" />
+          <rect
+             x="115"
+             y="150"
+             width="5"
+             height="5"
+             id="rect6634" />
+          <rect
+             x="125"
+             y="150"
+             width="30"
+             height="5"
+             id="rect6636" />
+          <rect
+             x="165"
+             y="150"
+             width="5"
+             height="5"
+             id="rect6638" />
+          <rect
+             x="10"
+             y="155"
+             width="5"
+             height="5"
+             id="rect6640" />
+          <rect
+             x="20"
+             y="155"
+             width="15"
+             height="5"
+             id="rect6642" />
+          <rect
+             x="40"
+             y="155"
+             width="5"
+             height="5"
+             id="rect6644" />
+          <rect
+             x="50"
+             y="155"
+             width="10"
+             height="5"
+             id="rect6646" />
+          <rect
+             x="75"
+             y="155"
+             width="10"
+             height="5"
+             id="rect6648" />
+          <rect
+             x="110"
+             y="155"
+             width="10"
+             height="5"
+             id="rect6650" />
+          <rect
+             x="145"
+             y="155"
+             width="5"
+             height="5"
+             id="rect6652" />
+          <rect
+             x="155"
+             y="155"
+             width="15"
+             height="5"
+             id="rect6654" />
+          <rect
+             x="10"
+             y="160"
+             width="5"
+             height="5"
+             id="rect6656" />
+          <rect
+             x="20"
+             y="160"
+             width="15"
+             height="5"
+             id="rect6658" />
+          <rect
+             x="40"
+             y="160"
+             width="5"
+             height="5"
+             id="rect6660" />
+          <rect
+             x="60"
+             y="160"
+             width="10"
+             height="5"
+             id="rect6662" />
+          <rect
+             x="75"
+             y="160"
+             width="5"
+             height="5"
+             id="rect6664" />
+          <rect
+             x="90"
+             y="160"
+             width="25"
+             height="5"
+             id="rect6666" />
+          <rect
+             x="150"
+             y="160"
+             width="5"
+             height="5"
+             id="rect6668" />
+          <rect
+             x="165"
+             y="160"
+             width="10"
+             height="5"
+             id="rect6670" />
+          <rect
+             x="10"
+             y="165"
+             width="5"
+             height="5"
+             id="rect6672" />
+          <rect
+             x="40"
+             y="165"
+             width="5"
+             height="5"
+             id="rect6674" />
+          <rect
+             x="60"
+             y="165"
+             width="5"
+             height="5"
+             id="rect6676" />
+          <rect
+             x="75"
+             y="165"
+             width="5"
+             height="5"
+             id="rect6678" />
+          <rect
+             x="90"
+             y="165"
+             width="25"
+             height="5"
+             id="rect6680" />
+          <rect
+             x="120"
+             y="165"
+             width="5"
+             height="5"
+             id="rect6682" />
+          <rect
+             x="135"
+             y="165"
+             width="5"
+             height="5"
+             id="rect6684" />
+          <rect
+             x="160"
+             y="165"
+             width="15"
+             height="5"
+             id="rect6686" />
+          <rect
+             x="10"
+             y="170"
+             width="35"
+             height="5"
+             id="rect6688" />
+          <rect
+             x="55"
+             y="170"
+             width="5"
+             height="5"
+             id="rect6690" />
+          <rect
+             x="65"
+             y="170"
+             width="5"
+             height="5"
+             id="rect6692" />
+          <rect
+             x="75"
+             y="170"
+             width="5"
+             height="5"
+             id="rect6694" />
+          <rect
+             x="90"
+             y="170"
+             width="5"
+             height="5"
+             id="rect6696" />
+          <rect
+             x="105"
+             y="170"
+             width="5"
+             height="5"
+             id="rect6698" />
+          <rect
+             x="115"
+             y="170"
+             width="5"
+             height="5"
+             id="rect6700" />
+          <rect
+             x="125"
+             y="170"
+             width="15"
+             height="5"
+             id="rect6702" />
+          <rect
+             x="150"
+             y="170"
+             width="5"
+             height="5"
+             id="rect6704" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.26163079,0,0,0.26163079,62.875111,410.00408)"
+         id="canvas-8">
+        <rect
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="244"
+           height="70"
+           id="rect8829" />
+        <g
+           style="fill:#000000"
+           id="barcode">
+          <path
+             style="stroke:#000000;stroke-width:2"
+             inkscape:connector-curvature="0"
+             d="M 11,10 V 60 M 13,10 V 60 M 17,10 V 60 M 27,10 v 50 m 6,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 4,-50 v 50 m 2,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 6,-50 v 50 m 4,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 4,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 6,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 4,-50 v 50 m 2,-50 v 50 m 6,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 4,-50 v 50 m 2,-50 v 50 m 6,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 4,-50 v 50 m 2,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 6,-50 v 50 m 6,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 4,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 8,-50 v 50 m 2,-50 v 50 m 4,-50 v 50 m 4,-50 v 50 m 2,-50 v 50 m 8,-50 v 50 m 2,-50 v 50 m 2,-50 v 50 m 4,-50 v 50 m 4,-50 v 50 m 2,-50 v 50"
+             id="path8832" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
