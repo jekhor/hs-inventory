@@ -55,6 +55,8 @@ class AssetsController < ApplicationController
         format.html { redirect_to @asset, notice: 'Asset was successfully created.' }
         format.json { render json: @asset, status: :created, location: @asset }
       else
+        @owners = @users = Member.all
+        @categories = Category.all
         format.html { render action: "new" }
         format.json { render json: @asset.errors, status: :unprocessable_entity }
       end
@@ -71,6 +73,8 @@ class AssetsController < ApplicationController
         format.html { redirect_to @asset, notice: 'Asset was successfully updated.' }
         format.json { head :no_content }
       else
+        @owners = @users = Member.all
+        @categories = Category.all
         format.html { render action: "edit" }
         format.json { render json: @asset.errors, status: :unprocessable_entity }
       end
