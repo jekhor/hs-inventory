@@ -18,7 +18,7 @@ class Asset < ActiveRecord::Base
   require 'barby/barcode/qr_code'
   require 'barby/outputter/svg_outputter'
   def qrcode_data(str)
-    qr = Barby::QrCode.new(str, :size => 4, :level => 'h')
+    qr = Barby::QrCode.new(str, :size => 4, :level => 'q')
     outputter = Barby::SvgOutputter.new(qr)
     outputter.ydim = 5
     outputter.xdim = 5
