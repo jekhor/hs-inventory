@@ -78,6 +78,10 @@ class AssetsController < ApplicationController
 
     respond_to do |format|
       if @asset.update_attributes(params[:asset])
+        if params[:remove_photo]
+          @asset.photo = nil
+          @asset.save
+        end
         format.html { redirect_to @asset, notice: 'Asset was successfully updated.' }
         format.json { head :no_content }
       else

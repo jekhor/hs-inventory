@@ -1,6 +1,9 @@
 <p id="notice"><%= notice %></p>
 
 <p>
+<%= image_tag @asset.photo.url(:medium) %>
+
+<p>
   <b>Name:</b>
   <%= @asset.name %>
 </p>

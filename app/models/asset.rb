@@ -2,6 +2,7 @@ class Asset < ActiveRecord::Base
   include HasBarcode
 
   attr_accessible :category_id, :date, :name, :owner_id, :user_id, :model, :serial, :description, :contents
+  attr_accessible :photo
 
   belongs_to :category
   belongs_to :owner, :class_name => 'Member', :foreign_key => 'owner_id'
@@ -9,6 +10,12 @@ class Asset < ActiveRecord::Base
 
   validates :name, :length => { :maximum => 30 }
   validates :model, :length => { :maximum => 30 }
+
+  has_attached_file :photo,
+    :styles => {:medium => "300x300", :thumb => "100x100"},
+    :url => "/system/:hash.:extension",
+    :hash_secret => "hackerspace.by",
+    :default_url => "/images/:style/missing.png"
 
   has_barcode :barcode,
     :outputter => :svg,
