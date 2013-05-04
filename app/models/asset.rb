@@ -12,7 +12,7 @@ class Asset < ActiveRecord::Base
   validates :model, :length => { :maximum => 30 }
 
   has_attached_file :photo,
-    :styles => {:medium => "300x300", :thumb => "100x100"},
+    :styles => {:medium => "300x300", :thumb => "100x100", :large => "800x600"},
     :url => "/system/:hash.:extension",
     :hash_secret => "hackerspace.by",
     :default_url => "/images/:style/missing.png"

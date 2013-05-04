@@ -1,7 +1,8 @@
 <p id="notice"><%= notice %></p>
 
 <p>
-<%= image_tag @asset.photo.url(:medium) %>
+<%= link_to image_tag(@asset.photo.url(:medium)), @asset.photo.url(:large), :rel => "lightbox", :title => "#{@asset.name}<br/>#{@asset.model}<br/>#{@asset.description}"  unless @asset.photo_file_name.nil? %>
+</p>
 
 <p>
   <b>Name:</b>

@@ -12,4 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.lightbox-0.5.min
 //= require_tree .
+
+$(document).ready(function() {
+  $('a[rel*="lightbox"]').lightBox();
+});
+
