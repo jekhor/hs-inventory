@@ -1,5 +1,8 @@
 HsInventory::Application.routes.draw do
   get 'assets/labels' => 'assets#labels'
+  get 'assets/labels_small' => 'assets#labels_small'
+  get 'assets/:id(_small)' => 'assets#label_small'
+
   resources :assets
 
 

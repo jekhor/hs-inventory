@@ -20,6 +20,14 @@ class AssetsController < ApplicationController
     end
   end
 
+  def labels_small
+    @assets = Asset.all
+
+    respond_to do |format|
+      format.html { render :layout => false }
+    end
+  end
+
   # GET /assets/1
   # GET /assets/1.json
   def show
@@ -30,6 +38,14 @@ class AssetsController < ApplicationController
       format.json { render json: @asset }
       format.png { render qrcode: asset_url(@asset) }
       format.svg {}
+    end
+  end
+
+  def label_small
+    @asset = Asset.find(params[:id])
+
+    respond_to do |format|
+      format.svg 
     end
   end
 
