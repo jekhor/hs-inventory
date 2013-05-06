@@ -79,7 +79,7 @@
          id="rect4731"
          style="color:#000000;fill:none;stroke:#000000;stroke-width:0.09590529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
-         x="127"
+         x="133"
          y="421.34549"
          transform="scale(0.99356903,1.0064726)"
          id="inv_no"
@@ -93,7 +93,7 @@
       <g
          transform="matrix(0.26163079,0,0,0.26163079,62.875111,410.00408)"
          id="canvas-barcode">
-       <%= raw @asset.barcode_data(:height => 50, :xdim => 3).gsub(/<\?xml[^>]+\?>/, '') %>
+       <%= raw @asset.barcode_data(:height => 50, :xdim => 4).gsub(/<\?xml[^>]+\?>/, '') %>
       </g>
     </g>
   </g>
