@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="109.96752"
+   width="90"
    height="18.314156"
    id="svg11252"
    version="1.1"
@@ -38,20 +38,20 @@
        id="g11446">
       <rect
          y="1034.6456"
-         x="2.705988e-08"
+         x="0"
          height="17.626276"
-         width="109.84252"
+         width="90"
          id="rect5036"
          style="color:#000000;fill:none;stroke:#000000;stroke-width:0.03766164;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <g
          id="canvas-barcode"
          transform="matrix(0.26163079,0,0,0.26163079,0,1034.048)">
-         <%= raw @asset.barcode_data(:height => 50, :xdim => 2).gsub(/<\?xml[^>]+\?>/, '') %>
+         <%= raw @asset.barcode_data(:height => 50, :xdim => 3).gsub(/<\?xml[^>]+\?>/, '') %>
       </g>
       <text
          xml:space="preserve"
-         style="font-size:10.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Courier New"
-         x="63"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Courier New"
+         x="54"
          y="1039.9335"
          id="inv_no"
          transform="scale(0.99356903,1.0064726)"><%= @asset.inv_no %></text>

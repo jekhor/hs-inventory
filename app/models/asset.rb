@@ -17,10 +17,10 @@ class Asset < ActiveRecord::Base
     :hash_secret => "hackerspace.by",
     :default_url => "/images/:style/missing.png"
 
-  has_barcode :barcode,
-    :outputter => :svg,
-    :type => :code_128,
-    :value => Proc.new { |a| a.inv_no }
+#  has_barcode :barcode,
+#    :outputter => :svg,
+#    :type => :code_128,
+#    :value => Proc.new { |a| a.inv_no }
 
   require 'barby/barcode/qr_code'
   require 'barby/outputter/svg_outputter'
@@ -32,8 +32,18 @@ class Asset < ActiveRecord::Base
     outputter.to_svg
   end
 
+  require 'barby/barcode/code_128'
+  def barcode_data(*opts)
+    barcode = Barby::Code128C.new(self.inv_no_barcode)
+    outputter = Barby::SvgOutputter.new(barcode)
+    outputter.to_svg(*opts)
+  end
 
   def inv_no
-    sprintf "%02u-%04u", self.category.id, self.id
+    sprintf "%04u", self.id
+  end
+
+  def inv_no_barcode
+    sprintf "%04u", self.id
   end
 end
